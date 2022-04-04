@@ -1,5 +1,9 @@
-# aula-proj-int
+# Aula do dia 05/04/2022
 Repositório para testes na disciplina de Projeto Integrador (IFRS-Sertão-ADS-2022)
+
+**Objetivos:** utilizar o Git para versionamento e o GitHub para armazenamento e organização do projeto.
+
+**Recomendação de leitura:** Livro [Pro Git](https://git-scm.com/book/en/v2), parcialmente traduzido para o [português](https://git-scm.com/book/pt-br/v2).
 
 ## Primeira atividade
 - Clone o repositório

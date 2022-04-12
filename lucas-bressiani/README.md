@@ -1,4 +1,4 @@
-[# Descrição do projeto](https://github.com)
+[# Descrição do projeto](https://github.com/luscasjb/Projeto-Integrador)
 **Objetivo:** Criar um sistema de pesquisa de produtos de tecnologia, por meio de resultados do Shopping Google.
 
 ## Tecnologias usadas 

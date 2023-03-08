@@ -11,8 +11,6 @@
 -   Crie uma pasta com o seu nome, seguindo o formato: gabriel-paniz-patzer
 -   Crie um arquivo README (preferencialmente em formato [Markdown](https://www.markdownguide.org/cheat-sheet/)) na sua pasta, descrevendo o seu projeto
 -   Salve localmente as alterações
--   Reuna as alterações com o branch principal
--   Exclua o branch
 -   Envie as alterações para o [repositório remoto](https://github.com/gabrielpatzer/aula-proj-int)
 -   Crie um Pull request resolvendo sua [issue](https://github.com/gabrielpatzer/aula-proj-int/issues)
 
